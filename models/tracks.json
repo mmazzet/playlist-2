@@ -1,0 +1,26 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "we",
+      "artist": "me",
+      "duration": 1,
+      "_id": "d760557d-93d8-49f1-a81a-ed3bc682a686",
+      "playlistid": "5df3cb8a-3add-4512-a412-74b807cda67a"
+    },
+    {
+      "title": "track 1",
+      "artist": "me",
+      "duration": 2,
+      "_id": "ddb145aa-027c-49bd-aebe-81ea463b610a",
+      "playlistid": "5df3cb8a-3add-4512-a412-74b807cda67a"
+    },
+    {
+      "title": "track 2",
+      "artist": "me",
+      "duration": 1,
+      "_id": "02d48249-de42-44c6-87df-b04f39d55280",
+      "playlistid": "5df3cb8a-3add-4512-a412-74b807cda67a"
+    }
+  ]
+}
